@@ -1,11 +1,11 @@
-### Hello, my name is Gabriel Camurça! 👋
+### Hello, my name is Gabriel Camurça! <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="30">
 
 [![Linkedin: gabriel-camurca](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camurca-fernandes-de-sousa/)
 [![GitHub: gabriel-camurca](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriel-camurca)
 
 I'm a Software Engineer looking to better myself everyday!
 
-Currently finishing a Bachelor's Degree in Computer Science at Federal University of Ceará (UFC)
+Currently finishing a Bachelor's Degree in Computer Science at [Federal University of Ceará (UFC)](https://cc.ufc.br)
 
 # Profiencies
 
