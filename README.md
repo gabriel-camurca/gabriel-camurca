@@ -5,7 +5,7 @@
 
 I'm a Software Engineer looking to better myself everyday!
 
-Currently finishing a Bachelor's Degree in Computer Science at [Federal University of Ceará (UFC)](https://cc.ufc.br)
+Bachelor's Degree in Computer Science at [Federal University of Ceará (UFC)](https://cc.ufc.br)
 
 # Profiencies
 
